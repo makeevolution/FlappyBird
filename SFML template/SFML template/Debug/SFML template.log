@@ -1,0 +1,38 @@
+﻿  InputManager.cpp
+C:\Users\ajb266\Documents\Aldo\SFML template\SFML template\InputManager.cpp(12,34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ajb266\Documents\Aldo\SFML template\SFML template\InputManager.cpp(11,34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ajb266\Documents\Aldo\SFML template\SFML template\InputManager.cpp(10,30): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ajb266\Documents\Aldo\SFML template\SFML template\InputManager.cpp(9,45): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  SFML template.vcxproj -> C:\Users\ajb266\Documents\Aldo\SFML template\Debug\SFML template.exe
