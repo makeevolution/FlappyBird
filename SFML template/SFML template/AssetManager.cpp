@@ -1,7 +1,6 @@
 #pragma once
 
 #include "AssetManager.hpp"
-
 namespace Aldo {
 	void AssetManager::LoadTexture(std::string name, std::string fileName) {
 		sf::Texture tex;

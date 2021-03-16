@@ -2,10 +2,12 @@
 //
 
 #include <SFML/Graphics.hpp>
+#include "GameLoop.hpp"
+#include "DEFINITIONS.hpp"
 
 int main()
 {
-   
+    Aldo::Game(SCREEN_WIDTH, SCREEN_HEIGHT,"SFML stater");
     return EXIT_SUCCESS;
 }
 
