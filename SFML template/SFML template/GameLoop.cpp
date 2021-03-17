@@ -5,8 +5,8 @@
 namespace Aldo {
 
 	Game::Game(int width, int height, std::string gametitle) {
-		_data->window.create(sf::videomode(width, height),
-			title, sf::Style::Close | sf::Style::Titlebar);
+		_data->window.create(sf::VideoMode(width, height),
+			gametitle, sf::Style::Close | sf::Style::Titlebar);
 		_data->machine.AddState(StateRef(new SplashState(this->_data)));
 
 		this->Run();

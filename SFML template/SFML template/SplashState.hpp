@@ -7,7 +7,7 @@
 namespace Aldo {
 	class SplashState : public State
 	{
-	public: 
+	public:
 		SplashState(GameDataRef data);
 
 		void Init();
@@ -21,5 +21,5 @@ namespace Aldo {
 
 		sf::Texture _backgroundTexture;
 		sf::Sprite _background;
-	}
+	};
 }
